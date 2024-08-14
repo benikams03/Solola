@@ -1,2 +1,2 @@
 # Solola
-Un mini réseaux sociaux 
+Un mini réseau social 
