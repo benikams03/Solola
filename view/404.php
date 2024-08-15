@@ -6,6 +6,7 @@
     <title>Page non trouvée - 404</title>
     <!-- Lien vers Bootstrap CSS -->
     <link href="./assets/bootstrap/bootstrap.min.css" rel="stylesheet">
+    <link href="./../assets/bootstrap/bootstrap.min.css" rel="stylesheet">
     <style>
         body {
             background-color: #f8f9fa;
@@ -39,5 +40,6 @@
 
     <!-- Lien vers Bootstrap JS et ses dépendances -->
     <script src="./assets/bootstrap/bootstrap.bundle.min.js"></script>
+    <script src="./../assets/bootstrap/bootstrap.bundle.min.js"></script>
 </body>
 </html>
